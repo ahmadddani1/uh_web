@@ -1,0 +1,45 @@
+body {
+    margin: auto;
+    padding: auto;
+}
+nav ul {
+    float: left;
+    margin-right: 40px;
+    list-style: none;
+    position: relative;
+}
+
+article .image {
+    width: 60%;
+
+    margin: auto;
+}
+
+.card {
+   
+    width: 30%;
+    margin: 10px;
+    border: 1px solid transparent;
+    border-radius: 100%;
+}
+.card img {
+    width:  75%;
+    height: 80%;
+    margin: 510px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.contect2{
+    width: 83%;
+    height: 85%;
+    margin:10px;
+}
+.sidebar{
+    color:brown;
+}
+h3{
+   margin-left: 600px;
+}
+footer p{
+   text-align: center ;
+}
